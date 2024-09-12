@@ -1,0 +1,23 @@
+.homepage {
+    height: 400px;
+}
+
+marquee { 
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+table a {
+    font-size: 40px;
+    background: #FF0000;
+    background: linear-gradient(to left, #FF0000 0%, #000000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border: solid 1px black;
+}
+
+.thomepage  {
+    max-width: 100%;
+    margin: 20% auto;
+}
+
